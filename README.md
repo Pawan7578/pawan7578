@@ -1,69 +1,99 @@
 # 👋 Hi, I'm Pawan Kumar N  
-🎓 MCA (Generative AI) Student | 💻 Java Developer | 🤖 AI Enthusiast  
+🎓 MCA (Generative AI) Student | 💻 Software Developer | 🤖 AI & ML Enthusiast  
 
 ---
 
 ## 🧠 About Me  
-I’m passionate about using **technology and AI** to create practical solutions that make a real impact.  
-I believe *“Hard work combined with smart work yields great results.”*  
-
-- 🎯 Currently pursuing **MCA (Generative AI)** at **Alliance University**  
-- 🧩 Completed **BCA** at **Vijaya College**  
-- 💼 Completed internship at **Alpha Tech Academy** (Front-End Development)  
-- 🌱 Currently working on **Java-based applications** and exploring **AI integration**
+Motivated and detail-oriented MCA student specializing in **Generative AI** with hands-on experience in **software and web application development**.  
+I combine analytical thinking with creative problem-solving to build intelligent, secure, and scalable solutions.  
+Passionate about applying **AI-driven development** to enhance performance and deliver user-centric systems within Agile environments.  
 
 ---
 
-## 🧰 Tech Stack  
+## 🧰 Technical Skills  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+**Programming Languages:** Python, Java, C, C++, PHP  
+**Frontend:** HTML5, CSS3, JavaScript, React (Basic), Bootstrap  
+**Backend:** Node.js, Express.js, PHP  
+**Databases:** MySQL, MongoDB, Firebase  
+**AI/ML Tools:** OpenAI API, LangChain, TensorFlow (Basic), NumPy, Pandas  
+**Tools & Testing:** Postman, Git, GitHub, VS Code, XAMPP/WAMP  
+**Concepts:** Data Structures & Algorithms, SDLC, RESTful APIs, Version Control, Software Design Patterns, Deployment  
 
 ---
 
 ## 💼 Projects  
 
-### 🎧 DJ Booking System  
-A web-based application that allows users to **book DJs for events**, view packages, and manage bookings efficiently.  
-**Tech Stack:** Java, JSP, MySQL, Bootstrap  
-🔗 [View Project](#)
+### 🎧 DJ Booking Management System  
+🛠 **Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript  
+- Designed and developed a **full-stack booking platform** enabling event-based DJ service scheduling.  
+- Implemented secure login, CRUD operations, and modular backend for real-time management.  
+- Focused on scalability and maintainability for efficient future expansion.  
 
 ---
 
-### 😎 Face Detection System using Java  
-A mini project that uses **OpenCV** for real-time face detection and attendance tracking.  
-**Tech Stack:** Java, OpenCV, Eclipse IDE  
-🔗 [View Project](#)
+### 😎 Face Detection Attendance System  
+🛠 **Tech Stack:** Java, OpenCV  
+- Built a **real-time face recognition system** for automated attendance tracking.  
+- Integrated OpenCV for accurate face detection and database-driven record management.  
+- Improved reliability and reduced manual verification time.  
+
+---
+
+### 🏠 PG Finder App (UI/UX Focus)  
+🛠 **Tool:** Figma  
+- Designed a **user-friendly mobile app UI** to help users find and compare PG accommodations.  
+- Focused on user journey mapping, interactive layouts, and intuitive design prototypes.  
+
+---
+
+## 🧩 Internship Experience  
+**Frontend Developer Intern – Alpha Tech Academy**  
+📍 Bengaluru | 🗓 April 2024 – May 2024  
+- Developed a **Walmart website clone** focusing on responsive UI and performance optimization.  
+- Wrote clean, reusable code using HTML, CSS, and JavaScript.  
+- Collaborated within an **Agile team** using Git for version control.  
 
 ---
 
 ## 🏅 Certifications  
-- 🧠 **Coursera:** Generative AI for Everyone  
-- 💻 **Alpha Tech Academy:** Front-End Development Internship  
+- 🧠 *Introduction to Software Engineering* – IBM  
+- 🤖 *Generative AI: Introduction & Applications* – IBM  
+- ⚙️ *Automation Developer Associate* – UiPath  
+- ☕ *Introduction to Java & OOP* – University of Pennsylvania  
+- 🧩 *Machine Learning: Classification* – University of Washington  
+- 🏆 *Agentblazer Champion* – Salesforce  
 
 ---
 
 ## 🎓 Education  
-- 🎓 **MCA (Generative AI)** – Alliance University *(2025)*  
-- 🎓 **BCA** – Vijaya College *(2022)*  
+- 🎓 **Master of Computer Applications (MCA)** – Alliance University *(2024–2026)*  
+  - Semester 1 SGPA: 9.2 | Semester 2 SGPA: 9.2  
+- 🎓 **Bachelor of Computer Applications (BCA)** – Vijaya College *(Graduated 2024)*  
+  - CGPA: 8.7  
+
+---
+
+## 🧠 Soft Skills  
+Analytical Thinking | Team Collaboration | Debugging & Testing | Adaptability | Documentation | Problem Solving | Communication  
+
+---
+
+## 🧰 Workshops & Seminars  
+- CloudSEK Cybersecurity Seminar – 2025  
+- NVIDIA DLI University Ambassador Workshop – 2025  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawan7578&show_icons=true&theme=tokyonight" alt="Pawan's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan7578&theme=tokyonight" alt="Pawan's GitHub streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pawan7578&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan7578&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan7578&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan7578&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
