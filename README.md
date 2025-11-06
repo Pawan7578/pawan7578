@@ -1,7 +1,7 @@
 <!-- Centered Animated Intro -->
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=700&lines=Hey+there!+👋+I'm+Pawan+Kumar+N;MCA+(Generative+AI)+Student;💻+Java+Developer;🤖+AI+and+ML+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=700&lines=Hey+there!+👋+I'm+Pawankumar+N;MCA+(Generative+AI)+Student;💻+Java+Developer;🤖+AI+and+ML+Enthusiast" alt="Typing SVG" />
 
 ⭐ *“Learning never stops — especially when technology evolves every day.”*  
 
