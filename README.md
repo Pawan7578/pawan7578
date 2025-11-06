@@ -1,32 +1,52 @@
-# 👋 Hi, I'm Pawan Kumar N  
+<!-- Centered Intro -->
+<div align="center">
+  
+# 👋 Hi, I'm <span style="color:#00A8E8;">Pawankumar N</span>  
+🎓 MCA (Generative AI) Student | 💻 Java Developer | 🤖 AI & ML Enthusiast  
 
 ⭐ *“Learning never stops — especially when technology evolves every day.”*  
 
 ---
 
-## 📫 Connect with Me  
-🌐 [LinkedIn](https://www.linkedin.com/in/pawankumarn)  
-💻 [GitHub](https://github.com/pawan7578)  
-📧 [Email Me](mailto:pawan1k7578@gmail.com)  
+### 🌐 Connect With Me  
+
+<a href="https://www.linkedin.com/in/pawankumarn" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:pawan1k7578@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/pawan7578" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
 
 ---
 
 ## 🧰 Technical Skills  
 
-**Programming Languages:** Python, Java, C, C++, PHP  
-**Frontend:** HTML5, CSS3, JavaScript, React (Basic), Bootstrap  
-**Backend:** Node.js, Express.js, PHP  
-**Databases:** MySQL, MongoDB, Firebase  
-**AI/ML Tools:** OpenAI API, LangChain, TensorFlow (Basic), NumPy, Pandas  
-**Tools & Testing:** Postman, Git, GitHub, VS Code, XAMPP/WAMP  
-**Concepts:** Data Structures & Algorithms, SDLC, RESTful APIs, Version Control, Software Design Patterns, Deployment  
+<div align="center">
+
+| Category | Skills |
+|-----------|--------|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,cpp,c,php" height="40"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" height="40"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,php" height="40"/> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="40"/> |
+| **AI/ML Tools** | <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" height="35"/> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="35" alt="LangChain"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="40"/> |
+| **Concepts** | DSA • REST APIs • SDLC • Version Control • Software Design • Debugging |
+
+</div>
 
 ---
 
 ## 🧠 About Me  
-Motivated and detail-oriented MCA student specializing in **Generative AI** with hands-on experience in **software and web application development**.  
-I combine analytical thinking with creative problem-solving to build intelligent, secure, and scalable solutions.  
-Passionate about applying **AI-driven development** to enhance performance and deliver user-centric systems within Agile environments.  
+
+💡 I’m a **Generative AI** enthusiast and **MCA student** with strong foundations in full-stack and intelligent system design.  
+🚀 Skilled in developing **AI-integrated, secure, and scalable applications** with real-world impact.  
+🌱 Passionate about learning new technologies, experimenting with AI frameworks, and improving system performance.
 
 ---
 
@@ -34,62 +54,68 @@ Passionate about applying **AI-driven development** to enhance performance and d
 
 ### 🎧 DJ Booking Management System  
 🛠 **Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript  
-- Designed and developed a **full-stack booking platform** enabling event-based DJ service scheduling.  
-- Implemented secure login, CRUD operations, and modular backend for real-time management.  
-- Focused on scalability and maintainability for efficient future expansion.  
+- Developed a **full-stack booking platform** for event-based DJ service scheduling.  
+- Implemented secure login, CRUD operations, and modular backend.  
+- Focused on performance and scalability for smooth user experience.  
+🔗 [Project Repository](https://github.com/Pawan7578/DJ-BOOKING-MANAGEMENT-SYSTEM-USING-PHP.git)
 
 ---
 
 ### 😎 Face Detection Attendance System  
 🛠 **Tech Stack:** Java, OpenCV  
-- Built a **real-time face recognition system** for automated attendance tracking.  
-- Integrated OpenCV for accurate face detection and database-driven record management.  
-- Improved reliability and reduced manual verification time.  
+- Built a **real-time attendance system** using facial recognition.  
+- Integrated OpenCV for accurate face detection and automated data entry.  
+- Enhanced reliability by minimizing manual tracking errors.  
+🔗 [Project Repository](https://github.com/Pawan7578/Face-detection-system-using-OpenCV.git)
 
 ---
 
-### 🏠 PG Finder App (UI/UX Focus)  
+### 🏠 PG Finder App (UI/UX Design)  
 🛠 **Tool:** Figma  
-- Designed a **user-friendly mobile app UI** to help users find and compare PG accommodations.  
-- Focused on user journey mapping, interactive layouts, and intuitive design prototypes.  
+- Designed an intuitive mobile app UI to compare PG accommodations.  
+- Focused on user flow, simplicity, and accessibility.  
 
 ---
 
-## 🧩 Internship Experience  
+## 💼 Internship Experience  
+
 **Frontend Developer Intern – Alpha Tech Academy**  
 📍 Bengaluru | 🗓 April 2024 – May 2024  
-- Developed a **Walmart website clone** focusing on responsive UI and performance optimization.  
-- Wrote clean, reusable code using HTML, CSS, and JavaScript.  
-- Collaborated within an **Agile team** using Git for version control.  
+- Developed a **Walmart clone** with responsive UI and smooth navigation.  
+- Optimized performance for faster load time.  
+- Collaborated in an Agile team using Git for version control.  
 
 ---
 
 ## 🏅 Certifications  
-- 🧠 *Introduction to Software Engineering* – IBM  
-- 🤖 *Generative AI: Introduction & Applications* – IBM  
-- ⚙️ *Automation Developer Associate* – UiPath  
-- ☕ *Introduction to Java & OOP* – University of Pennsylvania  
-- 🧩 *Machine Learning: Classification* – University of Washington  
-- 🏆 *Agentblazer Champion* – Salesforce  
+
+🎓 *Introduction to Software Engineering* – IBM  
+🤖 *Generative AI: Introduction & Applications* – IBM  
+⚙️ *Automation Developer Associate* – UiPath  
+☕ *Introduction to Java & OOP* – University of Pennsylvania  
+🧩 *Machine Learning: Classification* – University of Washington  
+🏆 *Agentblazer Champion* – Salesforce  
 
 ---
 
 ## 🎓 Education  
-- 🎓 **Master of Computer Applications (MCA)** – Alliance University *(2024–2026)*  
-  - Semester 1 SGPA: 9.2 | Semester 2 SGPA: 9.2  
-- 🎓 **Bachelor of Computer Applications (BCA)** – Vijaya College *(Graduated 2024)*  
-  - CGPA: 8.7  
+
+🎓 **Master of Computer Applications (MCA)** – Alliance University *(2024–2026)*  
+• Semester 1 SGPA: 9.2 | Semester 2 SGPA: 9.2  
+
+🎓 **Bachelor of Computer Applications (BCA)** – Vijaya College *(Graduated 2024)*  
+• CGPA: 8.7  
 
 ---
 
 ## 🧠 Soft Skills  
-Analytical Thinking | Team Collaboration | Debugging & Testing | Adaptability | Documentation | Problem Solving | Communication  
+🧩 Analytical Thinking 🤝 Team Collaboration 🔍 Debugging 📚 Documentation 💡 Problem Solving 🗣 Communication  
 
 ---
 
 ## 🧰 Workshops & Seminars  
-- CloudSEK Cybersecurity Seminar – 2025  
-- NVIDIA DLI University Ambassador Workshop – 2025  
+🛡 CloudSEK Cybersecurity Seminar – 2025  
+⚙️ NVIDIA DLI University Ambassador Workshop – 2025  
 
 ---
 
