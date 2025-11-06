@@ -1,8 +1,7 @@
-<!-- Centered Intro -->
+<!-- Centered Animated Intro -->
 <div align="center">
   
-# 👋 Hi, I'm <span style="color:#00A8E8;">Pawankumar N</span>  
-🎓 MCA (Generative AI) Student | 💻 Java Developer | 🤖 AI & ML Enthusiast  
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=700&lines=Hey+there!+👋+I'm+Pawan+Kumar+N;MCA+(Generative+AI)+Student;💻+Java+Developer;🤖+AI+and+ML+Enthusiast" alt="Typing SVG" />
 
 ⭐ *“Learning never stops — especially when technology evolves every day.”*  
 
@@ -24,19 +23,19 @@
 
 ---
 
-## 🧰 Technical Skills  
+## 🎨 Technical Skills  
 
 <div align="center">
 
-| Category | Skills |
-|-----------|--------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,cpp,c,php" height="40"/> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" height="40"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,php" height="40"/> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="40"/> |
-| **AI/ML Tools** | <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" height="35"/> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="35" alt="LangChain"/> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="40"/> |
-| **Concepts** | DSA • REST APIs • SDLC • Version Control • Software Design • Debugging |
+| **Category** | **Tools & Technologies** |
+|---------------|--------------------------|
+| 🧠 **Languages** | <img src="https://skillicons.dev/icons?i=python,java,cpp,c,php" height="45"/> |
+| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" height="45"/> |
+| ⚙️ **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,php" height="45"/> |
+| 🗄️ **Database** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" height="45"/> |
+| 🤖 **AI/ML Tools** | <img src="https://skillicons.dev/icons?i=tensorflow" height="45"/> <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" height="40"/> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="40" alt="LangChain"/> |
+| 🧰 **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45"/> |
+| 💡 **Concepts** | DSA • REST APIs • SDLC • Version Control • Software Design Patterns • Debugging |
 
 </div>
 
@@ -44,9 +43,9 @@
 
 ## 🧠 About Me  
 
-💡 I’m a **Generative AI** enthusiast and **MCA student** with strong foundations in full-stack and intelligent system design.  
-🚀 Skilled in developing **AI-integrated, secure, and scalable applications** with real-world impact.  
-🌱 Passionate about learning new technologies, experimenting with AI frameworks, and improving system performance.
+💡 I’m a **Generative AI** enthusiast and **MCA student** passionate about developing **AI-integrated and full-stack applications**.  
+🚀 Focused on building intelligent, scalable, and efficient solutions using both backend logic and modern UI.  
+🌱 Constantly learning **new frameworks**, exploring **AI APIs**, and contributing to meaningful projects.
 
 ---
 
@@ -54,35 +53,33 @@
 
 ### 🎧 DJ Booking Management System  
 🛠 **Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript  
-- Developed a **full-stack booking platform** for event-based DJ service scheduling.  
+- Designed a **full-stack booking platform** for event-based DJ service scheduling.  
 - Implemented secure login, CRUD operations, and modular backend.  
-- Focused on performance and scalability for smooth user experience.  
-🔗 [Project Repository](https://github.com/Pawan7578/DJ-BOOKING-MANAGEMENT-SYSTEM-USING-PHP.git)
+- Focused on performance, scalability, and smooth UX.  
 
 ---
 
 ### 😎 Face Detection Attendance System  
 🛠 **Tech Stack:** Java, OpenCV  
 - Built a **real-time attendance system** using facial recognition.  
-- Integrated OpenCV for accurate face detection and automated data entry.  
-- Enhanced reliability by minimizing manual tracking errors.  
-🔗 [Project Repository](https://github.com/Pawan7578/Face-detection-system-using-OpenCV.git)
+- Integrated OpenCV for accurate face detection and automation.  
+- Reduced manual errors and streamlined attendance processes.  
 
 ---
 
 ### 🏠 PG Finder App (UI/UX Design)  
 🛠 **Tool:** Figma  
-- Designed an intuitive mobile app UI to compare PG accommodations.  
-- Focused on user flow, simplicity, and accessibility.  
+- Designed a modern mobile interface for **PG comparison and booking**.  
+- Focused on simplicity, accessibility, and smooth navigation.  
 
 ---
 
-## 💼 Internship Experience  
+## 🧩 Internship Experience  
 
 **Frontend Developer Intern – Alpha Tech Academy**  
 📍 Bengaluru | 🗓 April 2024 – May 2024  
-- Developed a **Walmart clone** with responsive UI and smooth navigation.  
-- Optimized performance for faster load time.  
+- Built a **Walmart clone** with responsive UI and optimized performance.  
+- Improved accessibility and reusability of components.  
 - Collaborated in an Agile team using Git for version control.  
 
 ---
@@ -109,7 +106,7 @@
 ---
 
 ## 🧠 Soft Skills  
-🧩 Analytical Thinking 🤝 Team Collaboration 🔍 Debugging 📚 Documentation 💡 Problem Solving 🗣 Communication  
+💡 Analytical Thinking 🤝 Collaboration 🔍 Debugging 📚 Documentation ⚡ Adaptability 🗣 Communication  
 
 ---
 
@@ -122,16 +119,16 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawan7578&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan7578&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pawan7578&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawan7578&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan7578&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan7578&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </p>
 
 ---
 
 ## 🕸️ Contribution Graph  
 
-![Pawan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pawan7578&theme=tokyo-night)
+![Pawan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pawan7578&theme=react-dark&bg_color=0D1117)
