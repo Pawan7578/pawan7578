@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Pawan Kumar N  
-🎓 MCA (Generative AI) Student | 💻 Software Developer | 🤖 AI & ML Enthusiast  
+
+⭐ *“Learning never stops — especially when technology evolves every day.”*  
 
 ---
 
-## 🧠 About Me  
-Motivated and detail-oriented MCA student specializing in **Generative AI** with hands-on experience in **software and web application development**.  
-I combine analytical thinking with creative problem-solving to build intelligent, secure, and scalable solutions.  
-Passionate about applying **AI-driven development** to enhance performance and deliver user-centric systems within Agile environments.  
+## 📫 Connect with Me  
+🌐 [LinkedIn](https://www.linkedin.com/in/pawankumarn)  
+💻 [GitHub](https://github.com/pawan7578)  
+📧 [Email Me](mailto:pawan1k7578@gmail.com)  
 
 ---
 
@@ -19,6 +20,13 @@ Passionate about applying **AI-driven development** to enhance performance and d
 **AI/ML Tools:** OpenAI API, LangChain, TensorFlow (Basic), NumPy, Pandas  
 **Tools & Testing:** Postman, Git, GitHub, VS Code, XAMPP/WAMP  
 **Concepts:** Data Structures & Algorithms, SDLC, RESTful APIs, Version Control, Software Design Patterns, Deployment  
+
+---
+
+## 🧠 About Me  
+Motivated and detail-oriented MCA student specializing in **Generative AI** with hands-on experience in **software and web application development**.  
+I combine analytical thinking with creative problem-solving to build intelligent, secure, and scalable solutions.  
+Passionate about applying **AI-driven development** to enhance performance and deliver user-centric systems within Agile environments.  
 
 ---
 
@@ -101,14 +109,3 @@ Analytical Thinking | Team Collaboration | Debugging & Testing | Adaptability | 
 ## 🕸️ Contribution Graph  
 
 ![Pawan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pawan7578&theme=tokyo-night)
-
----
-
-## 📫 Connect with Me  
-🌐 [LinkedIn](https://www.linkedin.com/in/pawankumarn)  
-📧 [Email Me](mailto:pawan1k7578@gmail.com)  
-💻 [GitHub](https://github.com/pawan7578)
-
----
-
-⭐ *“Learning never stops — especially when technology evolves every day.”*
